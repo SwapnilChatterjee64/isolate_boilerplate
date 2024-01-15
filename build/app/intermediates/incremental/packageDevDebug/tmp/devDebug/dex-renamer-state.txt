@@ -1,0 +1,4 @@
+#Mon Jan 15 11:37:40 IST 2024
+base.0=/Users/swapnilchatterjee/Documents/GitHub/boiler-plate/build/app/intermediates/dex/devDebug/mergeDexDevDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
